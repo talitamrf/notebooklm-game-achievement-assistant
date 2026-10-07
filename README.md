@@ -206,7 +206,7 @@ Dessa forma, a proposta não é utilizar a IA como substituta dos guias, mas com
 ## 🛠️ Ferramentas utilizadas
 
 - [NotebookLM](https://notebooklm.google.com/)
-- Google Gemini / recursos de IA integrados ao NotebookLM
+- Google Gemini/recursos de IA integrados ao NotebookLM
 - GitHub
 - DIO
 
